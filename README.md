@@ -1,13 +1,13 @@
 <h3  align="center"> Olá, me chamo Enzo Thomé e sou estudante de desenvolvimento web! </h3>
 <hr>
 
-<div align="center">
+<div>
   <a href="https://github.com/EnzoThome-et">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoThome-et&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoThome-et&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoThome-et&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoThome-et&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block" ><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Enzo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Enzo-Jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg">
