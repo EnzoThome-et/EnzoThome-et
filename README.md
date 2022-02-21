@@ -1,6 +1,6 @@
 # Hi there, I'm Enzo 👋 
 
-## I'm a Junior Full Stack Web Developer!!
+## I'm a Junior Full Stack Developer!!
 
 - 🌱 I’m currently learning TypeScript
 - ⚡ Fun fact: I love to read books and listen classical music
