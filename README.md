@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web Developer!!
 
 - 🌱 I’m currently learning TypeScript
-- ⚡ Fun fact: I love to read and listen classical music
+- ⚡ Fun fact: I love to read books and listen classical music
 
 ### Connect with me:
 
