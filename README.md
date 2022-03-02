@@ -2,7 +2,7 @@
 
 ## I'm a Junior Full Stack Developer!!
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning NestJS
 - ⚡ Fun fact: I love to read books and listen classical music
 
 ### Connect with me:
@@ -25,9 +25,13 @@
 <img align="left" alt="Pyhton" width="26px" src="https://user-images.githubusercontent.com/85764731/154804127-ac7bdf73-494a-424c-828b-ae8fb1615960.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NestJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Sequelize" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
 
 <img align="left" alt="Jest" width="26px" src="https://user-images.githubusercontent.com/85764731/154803983-010a6f92-0d75-4351-a453-4ecdfa8d0da7.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/85764731/154804037-7898b9ef-344a-48b6-b14c-92b3da9b6f3e.png" style="padding-right:10px;" />
