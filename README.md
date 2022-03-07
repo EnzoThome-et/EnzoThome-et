@@ -2,7 +2,7 @@
 
 ## I'm a Junior Full Stack Developer!!
 
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning about GraphQL
 - ⚡ Fun fact: I love to read books and listen classical music
 
 ### Connect with me:
