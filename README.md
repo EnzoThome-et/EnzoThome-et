@@ -2,8 +2,9 @@
 
 ## I'm a Junior Full Stack Developer!!
 
-- 🌱 I’m currently learning about GraphQL
+- 🌱 I’m currently learning about GraphQL, POO and SOLID
 - ⚡ Fun fact: I love to read books and listen classical music
+- :book: I'll study soon: Python and AWS
 
 ### Connect with me:
 
