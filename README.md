@@ -1,4 +1,4 @@
-# Hi there, I'm Enzo 👋 
+# Hi there 👋 
 
 - 🌱  I’m currently learning about GraphQL, POO and SOLID
 - ⚡  Fun fact: I love to read books and listen classical music
