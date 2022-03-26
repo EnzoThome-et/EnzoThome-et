@@ -2,12 +2,7 @@
 
 - 🌱  I’m currently learning about GraphQL, POO and SOLID
 - ⚡  Fun fact: I love to read books and listen classical music
-- :book:  I'll study soon about Python and Cloud Computing
-
-### Connect with me:
-
-<a href = "mailto:enzothome.et@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/enzoalmeida/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- :book:  I'll study soon about Python and Cloud Computing 
 
 ### Languages and Tools:
 
