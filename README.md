@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- 🌱  I’m currently learning about GraphQL, POO and SOLID
+- 🌱  I’m currently learning about GraphQL
 - ⚡  Fun fact: I love to read books and listen classical music
 - :book:  I'll study soon about Python and Cloud Computing 
 
