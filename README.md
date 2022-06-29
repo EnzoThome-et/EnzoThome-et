@@ -1,8 +1,7 @@
 # Hi there 👋 
 
-- 🌱  I’m currently learning about GraphQL
+- 🌱  I’m currently learning about Python
 - ⚡  Fun fact: I love to read books and listen classical music
-- :book:  I'll study soon about Python and Cloud Computing 
 
 ### Languages and Tools:
 
