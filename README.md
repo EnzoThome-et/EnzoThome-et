@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- 🌱  I’m currently learning about Python
+- 🌱  I’m currently learning about FullStack Development
 - ⚡  Fun fact: I love to read books and listen classical music
 
 ### Languages and Tools:
