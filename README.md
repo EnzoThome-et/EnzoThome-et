@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- 🌱  I’m currently learning about some AWS services
+- 🌱  I’m a FullStack Web Developer
 - ⚡  Fun fact: I love to read books and listen classical music
 
 ### Languages and Tools:
